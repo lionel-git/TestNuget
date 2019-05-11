@@ -11,6 +11,8 @@ namespace TestRefNuget
             var w = new Worker();
             int r = w.DoSumLength(5, 6);
             Console.WriteLine(r);
+            Console.WriteLine("Wait for key ...");
+            Console.ReadKey();
         }
     }
 }
