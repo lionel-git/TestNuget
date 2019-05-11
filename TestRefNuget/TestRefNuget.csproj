@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="TestNuget" Version="1.1.0" />
+    <PackageReference Include="TestNuget" Version="1.5.5.9" />
   </ItemGroup>
 
 </Project>
